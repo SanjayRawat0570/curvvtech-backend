@@ -71,3 +71,7 @@ All endpoints require a `Authorization: Bearer <JWT>` header.
 
 
 * The `last_active_at` timestamp is updated only by the `heartbeat` endpoint.
+
+
+## postman collection 
+https://app.getpostman.com/join-team?invite_code=17504e84c9ce51a7b334066cf268d01e829f51d51e1b6c988637cd3d7785f423

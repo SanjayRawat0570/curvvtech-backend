@@ -29,3 +29,5 @@ sequelize.sync({ force: false })
   .catch((error) => {
     console.error('Failed to sync database:', error);
   });
+
+  
